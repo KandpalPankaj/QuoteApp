@@ -206,7 +206,7 @@ export const GlobalStyles = createGlobalStyle`
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: pink;
+        background-color: #223c5b;
         z-index: -1;
         border-radius: .35rem;
         border: solid 2px pink;

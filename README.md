@@ -2,8 +2,7 @@
 
 ![Image of Quote Generator Project](https://i.imgur.com/fNn5qRA.png)
 # 💬 QuoteApp
-> This is a very small project created with the purpose of learning the fundamentals of React.js starting from a simple [Create React App](https://github.com/facebook/create-react-app).
-
+> This is a very small project created with the purpose of learning the fundamentals of React.js .
 ## ▶️ Demo
 
 Here you can find the demo link:
